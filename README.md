@@ -1,4 +1,4 @@
-<h1 align="center">MinGyu Lee (M.K. Lee)</h1>
+<h1 align="center">MinGyu Lee </h1>
 
 <p align="center">
 Backend Developer
