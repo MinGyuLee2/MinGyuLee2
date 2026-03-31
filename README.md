@@ -9,7 +9,7 @@ Backend Developer
 ## About Me
 
 - 🎓 Computer Science @ Soongsil University
-- 💻 Backend-focused developer interested in **authentication, real-time systems, and scalable APIs**
+- 💻 Backend-focused developer interested in **authentication, and scalable APIs**
 - 🚀 Building **product-oriented services** with strong focus on **security and reliability**
 
 ---
@@ -17,8 +17,6 @@ Backend Developer
 ## Links
 
 - 📝 Blog: https://arch2ve-99.tistory.com
-- 🧩 BOJ: https://solved.ac/profile/marker3687  
-
 ---
 
 ## Military Service
@@ -40,12 +38,6 @@ Ministry of National Defense Headquarters (2024.07 – 2026.03)
 - Database modeling
 - REST API design
 - Security practices
-
-### Real-time Systems
-
-- WebSocket architecture
-- Pub/Sub patterns
-- Event-driven UX
 
 ### AI Direction
 
